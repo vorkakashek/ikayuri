@@ -1808,6 +1808,8 @@ span {
 		position: absolute;
 		pointer-events: none;
 		opacity: 0;
+		top: 0;
+		left: 0;
 		&--active {
 			position: relative;
 			pointer-events: all;

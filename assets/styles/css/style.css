@@ -6214,6 +6214,8 @@ span {
   position: absolute;
   pointer-events: none;
   opacity: 0;
+  top: 0;
+  left: 0;
 }
 .modal__container--active {
   position: relative;
