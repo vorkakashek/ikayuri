@@ -1,0 +1,93 @@
+@font-face {
+	font-family: "NunitoSans 10pt";
+	src: url("../../fonts/10pt/NunitoSans_10pt-Regular.ttf");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "NunitoSans 10pt";
+	src: url("../../fonts/10pt/NunitoSans_10pt-Bold.ttf");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "NunitoSans 10pt";
+	src: url("../../fonts/10pt/NunitoSans_10pt-Light.ttf");
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "NunitoSans 10pt";
+	src: url("../../fonts/10pt/NunitoSans_10pt-Medium.ttf");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "NunitoSans 10pt";
+	src: url("../../fonts/10pt/NunitoSans_10pt-SemiBold.ttf");
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "NunitoSans 10pt";
+	src: url("../../fonts/10pt/NunitoSans_10pt-Black.ttf");
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "NunitoSans 7pt Expanded";
+	src: url("../../fonts/7pt/NunitoSans_7pt_Expanded-Regular.ttf");
+	font-weight: 400;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "NunitoSans 7pt Expanded";
+	src: url("../../fonts/7pt/NunitoSans_7pt_Expanded-ExtraBold.ttf");
+	font-weight: 800;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "NunitoSans 7pt Expanded";
+	src: url("../../fonts/7pt/NunitoSans_7pt_Expanded-Light.ttf");
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "NunitoSans 7pt Expanded";
+	src: url("../../fonts/7pt/NunitoSans_7pt_Expanded-Bold.ttf");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "NunitoSans 7pt Expanded";
+	src: url("../../fonts/7pt/NunitoSans_7pt_Expanded-Black.ttf");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+* {
+	font-family: 'NunitoSans 10pt';
+	font-weight: 700;
+	color: var(--black)
+}

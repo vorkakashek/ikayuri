@@ -1,0 +1,11 @@
+@mixin screen($size: lg, $type: max-width) {
+	@media (#{$type}: $size) {
+		@content
+	}
+}
+
+@mixin ui-mouse {
+	@media (hover: hover) and (pointer: fine) {
+		@content;
+	};
+};
